@@ -1,0 +1,1 @@
+# Welcome to SMC_locale_1!

@@ -33,6 +33,18 @@
       "customized_template_paths": [
         "_dependentPackages/uref/content"
       ]
+    },
+    {
+      "docset_name": "SMC_locale_1",
+      "build_source_folder": "SMC_locale_1",
+      "build_output_subfolder": "SMC_locale_1",
+      "locale": "zh-cn",
+      "monikers": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs"
     }
   ],
   "notification_subscribers": [],
@@ -41,6 +53,7 @@
     "master-sxs"
   ],
   "continue_with_document_error": true,
+  "need_preview_pull_request": true,
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
